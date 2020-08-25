@@ -1,0 +1,1122 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xmlns:og="https://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<head profile="https://gmpg.org/xfn/11">
+
+	
+
+	<link rel="shortcut icon" type="image/png" href="https://www.cajaimebien.com/20121204_favicon.png" />
+	<link rel="apple-touch-icon" type="image/png" href="https://www.cajaimebien.com/apple-touch-icon.png" />
+
+	<script src="https://code.jquery.com/jquery-1.7.1.min.js"></script>
+
+	<meta http-equiv="Content-Type" content="text/html;
+	charset=UTF-8" />
+	<meta name="generator" content="WordPress 5.3.4" />
+	<!-- leave this for stats -->
+	<link rel="stylesheet" href="https://cajaimebien.com/wp-content/themes/cajaimebien%201.1/style.css" type="text/css" media="screen" />
+	<link href='https://fonts.googleapis.com/css?family=Megrim|Raleway:400,300' rel='stylesheet' type='text/css'>
+
+
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="https://cajaimebien.com/feed/" />
+
+	<link rel="alternate" type="text/xml" title="RSS .92" href="https://cajaimebien.com/feed/rss/" />
+	<link rel="alternate" type="application/atom+xml" title="Atom 0.3"
+	href="https://cajaimebien.com/feed/atom/" />
+	<link rel="pingback" href="https://cajaimebien.com/xmlrpc.php" />
+
+		<link rel='archives' title='décembre 2019' href='https://cajaimebien.com/2019/12/' />
+	<link rel='archives' title='octobre 2019' href='https://cajaimebien.com/2019/10/' />
+	<link rel='archives' title='novembre 2018' href='https://cajaimebien.com/2018/11/' />
+	<link rel='archives' title='janvier 2018' href='https://cajaimebien.com/2018/01/' />
+	<link rel='archives' title='octobre 2017' href='https://cajaimebien.com/2017/10/' />
+	<link rel='archives' title='mars 2017' href='https://cajaimebien.com/2017/03/' />
+	<link rel='archives' title='décembre 2016' href='https://cajaimebien.com/2016/12/' />
+	<link rel='archives' title='juillet 2016' href='https://cajaimebien.com/2016/07/' />
+	<link rel='archives' title='juin 2016' href='https://cajaimebien.com/2016/06/' />
+	<link rel='archives' title='avril 2016' href='https://cajaimebien.com/2016/04/' />
+	<link rel='archives' title='mars 2016' href='https://cajaimebien.com/2016/03/' />
+	<link rel='archives' title='février 2016' href='https://cajaimebien.com/2016/02/' />
+	<link rel='archives' title='janvier 2016' href='https://cajaimebien.com/2016/01/' />
+	<link rel='archives' title='décembre 2015' href='https://cajaimebien.com/2015/12/' />
+	<link rel='archives' title='novembre 2015' href='https://cajaimebien.com/2015/11/' />
+	<link rel='archives' title='octobre 2015' href='https://cajaimebien.com/2015/10/' />
+	<link rel='archives' title='septembre 2015' href='https://cajaimebien.com/2015/09/' />
+	<link rel='archives' title='août 2015' href='https://cajaimebien.com/2015/08/' />
+	<link rel='archives' title='juillet 2015' href='https://cajaimebien.com/2015/07/' />
+	<link rel='archives' title='juin 2015' href='https://cajaimebien.com/2015/06/' />
+	<link rel='archives' title='mai 2015' href='https://cajaimebien.com/2015/05/' />
+	<link rel='archives' title='avril 2015' href='https://cajaimebien.com/2015/04/' />
+	<link rel='archives' title='mars 2015' href='https://cajaimebien.com/2015/03/' />
+	<link rel='archives' title='février 2015' href='https://cajaimebien.com/2015/02/' />
+	<link rel='archives' title='janvier 2015' href='https://cajaimebien.com/2015/01/' />
+	<link rel='archives' title='décembre 2014' href='https://cajaimebien.com/2014/12/' />
+	<link rel='archives' title='novembre 2014' href='https://cajaimebien.com/2014/11/' />
+	<link rel='archives' title='octobre 2014' href='https://cajaimebien.com/2014/10/' />
+	<link rel='archives' title='septembre 2014' href='https://cajaimebien.com/2014/09/' />
+	<link rel='archives' title='août 2014' href='https://cajaimebien.com/2014/08/' />
+	<link rel='archives' title='juillet 2014' href='https://cajaimebien.com/2014/07/' />
+	<link rel='archives' title='juin 2014' href='https://cajaimebien.com/2014/06/' />
+	<link rel='archives' title='mai 2014' href='https://cajaimebien.com/2014/05/' />
+	<link rel='archives' title='avril 2014' href='https://cajaimebien.com/2014/04/' />
+	<link rel='archives' title='mars 2014' href='https://cajaimebien.com/2014/03/' />
+	<link rel='archives' title='février 2014' href='https://cajaimebien.com/2014/02/' />
+	<link rel='archives' title='janvier 2014' href='https://cajaimebien.com/2014/01/' />
+	<link rel='archives' title='décembre 2013' href='https://cajaimebien.com/2013/12/' />
+	<link rel='archives' title='novembre 2013' href='https://cajaimebien.com/2013/11/' />
+	<link rel='archives' title='octobre 2013' href='https://cajaimebien.com/2013/10/' />
+	<link rel='archives' title='septembre 2013' href='https://cajaimebien.com/2013/09/' />
+	<link rel='archives' title='août 2013' href='https://cajaimebien.com/2013/08/' />
+	<link rel='archives' title='juillet 2013' href='https://cajaimebien.com/2013/07/' />
+	<link rel='archives' title='juin 2013' href='https://cajaimebien.com/2013/06/' />
+	<link rel='archives' title='mai 2013' href='https://cajaimebien.com/2013/05/' />
+	<link rel='archives' title='avril 2013' href='https://cajaimebien.com/2013/04/' />
+	<link rel='archives' title='mars 2013' href='https://cajaimebien.com/2013/03/' />
+	<link rel='archives' title='février 2013' href='https://cajaimebien.com/2013/02/' />
+	<link rel='archives' title='janvier 2013' href='https://cajaimebien.com/2013/01/' />
+	<link rel='archives' title='décembre 2012' href='https://cajaimebien.com/2012/12/' />
+	<link rel='archives' title='juin 2012' href='https://cajaimebien.com/2012/06/' />
+	<link rel='archives' title='mai 2012' href='https://cajaimebien.com/2012/05/' />
+	<link rel='archives' title='avril 2012' href='https://cajaimebien.com/2012/04/' />
+	<link rel='archives' title='mars 2012' href='https://cajaimebien.com/2012/03/' />
+	<link rel='archives' title='février 2012' href='https://cajaimebien.com/2012/02/' />
+	
+<!--Plugin WP Missed Schedule 2013.1231.2013 Active - Tag 6707293c0218e2d8b7aa38d418ffa608-->
+
+<!-- This website is patched against a big problem not solved from WordPress 2.5+ to date -->
+
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.5.2.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Ça j&#039;aime bien</title>
+<link rel="canonical" href="https://cajaimebien.com/" />
+<link rel="next" href="https://cajaimebien.com/page/2/" />
+<meta name="google-site-verification" content="UA-36844101-1" />
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/cajaimebien.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.4"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://cajaimebien.com/wp-includes/css/dist/block-library/style.min.css?ver=5.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://cajaimebien.com/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.1.3' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='wpt-twitter-feed-css'  href='https://cajaimebien.com/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=5.3.4' type='text/css' media='all' />
+<script type='text/javascript' src='https://cajaimebien.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://cajaimebien.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://cajaimebien.com/wp-content/plugins/revslider/public/assets/js/revolution.tools.min.js?ver=6.0'></script>
+<script type='text/javascript' src='https://cajaimebien.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.1.3'></script>
+<link rel='https://api.w.org/' href='https://cajaimebien.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://cajaimebien.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://cajaimebien.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.3.4" />
+<meta name="generator" content="Powered by Slider Revolution 6.1.3 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<script type="text/javascript">function setREVStartSize(t){try{var h,e=document.getElementById(t.c).parentNode.offsetWidth;if(e=0===e||isNaN(e)?window.innerWidth:e,t.tabw=void 0===t.tabw?0:parseInt(t.tabw),t.thumbw=void 0===t.thumbw?0:parseInt(t.thumbw),t.tabh=void 0===t.tabh?0:parseInt(t.tabh),t.thumbh=void 0===t.thumbh?0:parseInt(t.thumbh),t.tabhide=void 0===t.tabhide?0:parseInt(t.tabhide),t.thumbhide=void 0===t.thumbhide?0:parseInt(t.thumbhide),t.mh=void 0===t.mh||""==t.mh||"auto"===t.mh?0:parseInt(t.mh,0),"fullscreen"===t.layout||"fullscreen"===t.l)h=Math.max(t.mh,window.innerHeight);else{for(var i in t.gw=Array.isArray(t.gw)?t.gw:[t.gw],t.rl)void 0!==t.gw[i]&&0!==t.gw[i]||(t.gw[i]=t.gw[i-1]);for(var i in t.gh=void 0===t.el||""===t.el||Array.isArray(t.el)&&0==t.el.length?t.gh:t.el,t.gh=Array.isArray(t.gh)?t.gh:[t.gh],t.rl)void 0!==t.gh[i]&&0!==t.gh[i]||(t.gh[i]=t.gh[i-1]);var r,a=new Array(t.rl.length),n=0;for(var i in t.tabw=t.tabhide>=e?0:t.tabw,t.thumbw=t.thumbhide>=e?0:t.thumbw,t.tabh=t.tabhide>=e?0:t.tabh,t.thumbh=t.thumbhide>=e?0:t.thumbh,t.rl)a[i]=t.rl[i]<window.innerWidth?0:t.rl[i];for(var i in r=a[0],a)r>a[i]&&0<a[i]&&(r=a[i],n=i);var d=e>t.gw[n]+t.tabw+t.thumbw?1:(e-(t.tabw+t.thumbw))/t.gw[n];h=t.gh[n]*d+(t.tabh+t.thumbh)}void 0===window.rs_init_css&&(window.rs_init_css=document.head.appendChild(document.createElement("style"))),document.getElementById(t.c).height=h,window.rs_init_css.innerHTML+="#"+t.c+"_wrapper { height: "+h+"px }"}catch(t){console.log("Failure at Presize of Slider:"+t)}};</script>
+
+	<meta name=”description” content="photo | graphisme | street art | peinture | et plus encore" />
+
+		<!-- the default values -->
+	<meta property="fb:app_id" content="205159576286321" />
+	<meta property="fb:admins" content="603282302" />
+
+	<!-- if page is content page -->
+		<meta property="og:site_name" content="Ça j&#039;aime bien" />
+	<meta property="og:description" content="photo | graphisme | street art | peinture | et plus encore" />
+	<meta property="og:type" content="website" />
+	<meta property="og:image" content="https://cajaimebien.com/wp-content/themes/cajaimebien/images/20121218_thumbnail_facebook.png" /> 
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-36844101-1']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>
+
+</head>
+<body>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/fr_FR/all.js#xfbml=1&appId=205159576286321";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
+<script type="text/javascript" src="https://cajaimebien.com/wp-content/themes/cajaimebien%201.1/js/script_equal_height.js"> </script>
+<script type="text/javascript" src="https://cajaimebien.com/wp-content/themes/cajaimebien%201.1/js/script_equal_height_single.js"> </script>
+
+
+	<div id="header_blanc">
+	</div>
+
+	<div id="header">
+		<h1> <a href="https://cajaimebien.com"> <span>Ça j&#039;aime bien </span></a></h1>
+		<p>à manger pour les yeux.</p>
+	</div>
+
+	<div id="menu_test">
+		<div id="menu">
+			<ul id="nav"><div class="menu-menu-container"><ul id="menu-menu" class="menu"><li id="menu-item-231" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-231"><a title="http://cajaimebien.com/" href="/" aria-current="page">home</a></li>
+<li id="menu-item-77" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-77"><a title="photo" href="https://cajaimebien.com/photo/">photo</a></li>
+<li id="menu-item-69" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69"><a title="graphisme" href="https://cajaimebien.com/graphisme/">graphisme</a></li>
+<li id="menu-item-1404" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1404"><a title="peinture" href="https://cajaimebien.com/peinture/">peinture</a></li>
+<li id="menu-item-717" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-717"><a title="installation" href="https://cajaimebien.com/installation/">installation</a></li>
+<li id="menu-item-613" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-613"><a title="street art" href="https://cajaimebien.com/street/">street</a></li>
+<li id="menu-item-718" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-718"><a title="sculpture" href="https://cajaimebien.com/sculpture/">sculpture</a></li>
+<li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a title="about" href="https://cajaimebien.com/about/">about</a></li>
+<li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a title="Le best of de Ça j&rsquo;aime bien !" href="https://cajaimebien.com/best-of/">Le best of de Ça j&rsquo;aime bien !</a></li>
+<li id="menu-item-691" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-691"><a title="article au hasard" href="/random">random</a></li>
+</ul></div></ul>
+		</div>
+	</div>
+
+	<script type="text/javascript">
+		// listen for scroll
+		var positionElementInPage = $('#menu_test').offset().top;
+		$(window).scroll(
+			function() {
+				if ($(window).scrollTop() >= positionElementInPage) {
+					// fixed
+					$('#menu_test').addClass("menu_flottant");
+				} else {
+					// relative
+					$('#menu_test').removeClass("menu_flottant");
+				}
+			}
+		);
+	</script>
+
+	<hr>
+
+<div id="content">
+	<div class="container">
+	<div class="slider_ms">
+		
+			<!-- START slider REVOLUTION SLIDER 6.1.3 --><p class="rs-p-wp-fix"></p>
+			<rs-module-wrap id="rev_slider_1_1_wrapper" data-source="gallery" data-aimg=""  style="background:#E9E9E9;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
+				<rs-module id="rev_slider_1_1" style="display:none;" data-version="6.1.3">
+					<rs-slides>
+						<rs-slide data-key="rs-1" data-title="Slide" data-link="//cajaimebien.com/2014/04/alexis-diaz/" data-target="_self" data-seoz="front" data-anim="ei:d;eo:d;s:600;r:0;t:fade;sl:7;">
+							<img src="//cajaimebien.com/wp-content/uploads/2014/04/alexis-diaz-7.jpg" title="LUMO Architects" class="rev-slidebg" data-no-retina>
+<!--
+							--><rs-layer
+								id="slider-1-slide-1-layer-1" 
+								class="titre_ms"
+								data-type="text"
+								data-color="#ffffff"
+								data-rsp_ch="on"
+								data-xy="x:c;y:c;"
+								data-frame_1="st:300;"
+								data-frame_999="st:5400;auto:true;"
+								style="z-index:5;font-family:Roboto;"
+							>Alexis Diaz 
+							</rs-layer><!--
+-->						</rs-slide>
+						<rs-slide data-key="rs-13" data-title="Slide" data-link="//cajaimebien.com/2013/04/adam-ferriss/" data-target="_self" data-seoz="front" data-anim="ei:d;eo:d;s:600;r:0;t:fade;sl:7;">
+							<img src="//cajaimebien.com/wp-content/uploads/2013/03/2013_03_28_Adam_Ferriss_13.png" title="LUMO Architects" class="rev-slidebg" data-no-retina>
+<!--
+							--><rs-layer
+								id="slider-1-slide-13-layer-1" 
+								class="titre_ms"
+								data-type="text"
+								data-color="#ffffff"
+								data-rsp_ch="on"
+								data-xy="x:c;y:c;"
+								data-frame_1="st:300;"
+								data-frame_999="st:5400;auto:true;"
+								style="z-index:5;font-family:Roboto;"
+							>Adam Ferriss 
+							</rs-layer><!--
+-->						</rs-slide>
+						<rs-slide data-key="rs-12" data-title="Slide" data-link="//cajaimebien.com/2014/05/lotfi-dakhli/" data-target="_self" data-seoz="front" data-anim="ei:d;eo:d;s:600;r:0;t:fade;sl:7;">
+							<img src="//cajaimebien.com/wp-content/uploads/2014/05/Lotfi-DAKHLI-TheDigitalFly-10.jpg" title="LUMO Architects" class="rev-slidebg" data-no-retina>
+<!--
+							--><rs-layer
+								id="slider-1-slide-12-layer-1" 
+								class="titre_ms"
+								data-type="text"
+								data-color="#ffffff"
+								data-rsp_ch="on"
+								data-xy="x:c;y:c;"
+								data-frame_1="st:300;"
+								data-frame_999="st:5400;auto:true;"
+								style="z-index:5;font-family:Roboto;"
+							>Lotfi Dakhli 
+							</rs-layer><!--
+-->						</rs-slide>
+						<rs-slide data-key="rs-11" data-title="Slide" data-link="//cajaimebien.com/2013/01/inca-pan/?slider" data-target="_self" data-seoz="front" data-anim="ei:d;eo:d;s:600;r:0;t:fade;sl:7;">
+							<img src="//cajaimebien.com/wp-content/uploads/2013/01/2013_01_11_Inca_Pan_08.jpg" title="LUMO Architects" class="rev-slidebg" data-no-retina>
+<!--
+							--><rs-layer
+								id="slider-1-slide-11-layer-1" 
+								class="titre_ms"
+								data-type="text"
+								data-color="#ffffff"
+								data-rsp_ch="on"
+								data-xy="x:c;y:c;"
+								data-frame_1="st:300;"
+								data-frame_999="st:5400;auto:true;"
+								style="z-index:5;font-family:Roboto;"
+							>Inca Pan 
+							</rs-layer><!--
+-->						</rs-slide>
+						<rs-slide data-key="rs-10" data-title="Slide" data-link="//cajaimebien.com/2013/01/ville-hara-linda-bergroth-garden-shed/?slider" data-target="_self" data-seoz="front" data-anim="ei:d;eo:d;s:600;r:0;t:fade;sl:7;">
+							<img src="//cajaimebien.com/wp-content/uploads/2012/12/2012_03_26_Ville_Hara_Linda_Bergroth_01.jpeg" title="LUMO Architects" class="rev-slidebg" data-no-retina>
+<!--
+							--><rs-layer
+								id="slider-1-slide-10-layer-1" 
+								class="titre_ms"
+								data-type="text"
+								data-color="#ffffff"
+								data-rsp_ch="on"
+								data-xy="x:c;y:c;"
+								data-frame_1="st:300;"
+								data-frame_999="st:5400;auto:true;"
+								style="z-index:5;font-family:Roboto;"
+							>Garden shed 
+							</rs-layer><!--
+-->						</rs-slide>
+					</rs-slides>
+					<rs-progress style="height: 5px; background: #FFFFFF;"></rs-progress>
+				</rs-module>
+				<script type="text/javascript">
+					setREVStartSize({c: 'rev_slider_1_1',rl:[1240,1024,778,480],el:[],gw:[960],gh:[350],layout:'fullwidth',mh:"0"});
+					var	revapi1,
+						tpj;
+					jQuery(function() {
+						tpj = jQuery;
+						tpj.noConflict();
+						if(tpj("#rev_slider_1_1").revolution == undefined){
+							revslider_showDoubleJqueryError("#rev_slider_1_1");
+						}else{
+							revapi1 = tpj("#rev_slider_1_1").show().revolution({
+								jsFileLocation:"//cajaimebien.com/wp-content/plugins/revslider/public/assets/js/",
+								sliderLayout:"fullwidth",
+								duration:6000,
+								visibilityLevels:"1240,1024,778,480",
+								gridwidth:960,
+								gridheight:350,
+								minHeight:"",
+								spinner:"spinner5",
+								responsiveLevels:"1240,1024,778,480",
+								navigation: {
+									mouseScrollNavigation:false,
+									touch: {
+										touchenabled:true
+									}
+								},
+								fallbacks: {
+									simplifyAll:"",
+									ignoreHeightChanges:"",
+									allowHTML5AutoPlayOnAndroid:true
+								},
+							});
+						}
+						
+					});
+				</script>
+			</rs-module-wrap>
+			<!-- END REVOLUTION SLIDER -->
+ 
+		<div class="remplissage">
+		</div>
+	</div>
+	<div id="entries">
+
+
+
+						<div class="post" id="post-5768">
+
+
+
+									<div class="thumbnail_vms">		
+							
+											<h2><a href="https://cajaimebien.com/2019/12/anais-marchais/" title="Anaïs Marchais">Anaïs Marchais</a></h2>
+				<p class="postmetadata">
+					11 décembre 2019 - <a href="https://cajaimebien.com/illustration/" rel="category tag">illustration</a> 
+				</p>
+							
+						<a class="halo" href="https://cajaimebien.com/2019/12/anais-marchais/" title="Anaïs Marchais">
+
+						</a>
+	
+						<a href="https://cajaimebien.com/2019/12/anais-marchais/" title="Anaïs Marchais">
+						<img width="700" height="300" src="https://cajaimebien.com/wp-content/uploads/2019/12/Le_chien_des_baskerville-700x300.jpg" class="attachment-homepage-thumb size-homepage-thumb wp-post-image" alt="" />						</a>
+					</div>
+				
+				
+
+
+				
+				<hr class="separation"/>
+				
+			</div>
+					<div class="post" id="post-5757">
+
+
+
+									<div class="thumbnail_vms">		
+							
+											<h2><a href="https://cajaimebien.com/2019/10/teagan-white/" title="Teagan White">Teagan White</a></h2>
+				<p class="postmetadata">
+					18 octobre 2019 - <a href="https://cajaimebien.com/peinture/" rel="category tag">peinture</a> 
+				</p>
+							
+						<a class="halo" href="https://cajaimebien.com/2019/10/teagan-white/" title="Teagan White">
+
+						</a>
+	
+						<a href="https://cajaimebien.com/2019/10/teagan-white/" title="Teagan White">
+						<img width="700" height="300" src="https://cajaimebien.com/wp-content/uploads/2019/10/2019-10-18-teagan-white-700x300.png" class="attachment-homepage-thumb size-homepage-thumb wp-post-image" alt="" />						</a>
+					</div>
+				
+				
+
+
+				
+				<hr class="separation"/>
+				
+			</div>
+					<div class="post" id="post-5746">
+
+
+
+									<div class="thumbnail_vms">		
+							
+											<h2><a href="https://cajaimebien.com/2019/10/angeline-pettinotti/" title="Angéline Pettinotti">Angéline Pettinotti</a></h2>
+				<p class="postmetadata">
+					7 octobre 2019 - <a href="https://cajaimebien.com/illustration/" rel="category tag">illustration</a> 
+				</p>
+							
+						<a class="halo" href="https://cajaimebien.com/2019/10/angeline-pettinotti/" title="Angéline Pettinotti">
+
+						</a>
+	
+						<a href="https://cajaimebien.com/2019/10/angeline-pettinotti/" title="Angéline Pettinotti">
+						<img width="700" height="300" src="https://cajaimebien.com/wp-content/uploads/2019/10/20191007-angéline-pettinotti_b-700x300.jpg" class="attachment-homepage-thumb size-homepage-thumb wp-post-image" alt="" />						</a>
+					</div>
+				
+				
+
+
+				
+				<hr class="separation"/>
+				
+			</div>
+					<div class="post" id="post-5727">
+
+
+
+									<div class="thumbnail_vms">		
+							
+											<h2><a href="https://cajaimebien.com/2018/11/pham-anh-hanoi/" title="Pham Anh &#8211; Hanoï">Pham Anh &#8211; Hanoï</a></h2>
+				<p class="postmetadata">
+					24 novembre 2018 - <a href="https://cajaimebien.com/peinture/" rel="category tag">peinture</a> 
+				</p>
+							
+						<a class="halo" href="https://cajaimebien.com/2018/11/pham-anh-hanoi/" title="Pham Anh &#8211; Hanoï">
+
+						</a>
+	
+						<a href="https://cajaimebien.com/2018/11/pham-anh-hanoi/" title="Pham Anh &#8211; Hanoï">
+						<img width="700" height="300" src="https://cajaimebien.com/wp-content/uploads/2018/11/Pham-Anh-Hanoi-45299060_1191148024372039_2684000238082981888_n-700x300.jpg" class="attachment-homepage-thumb size-homepage-thumb wp-post-image" alt="" />						</a>
+					</div>
+				
+				
+
+
+				
+				<hr class="separation"/>
+				
+			</div>
+					<div class="post" id="post-5714">
+
+
+
+									<div class="thumbnail_vms">		
+							
+											<h2><a href="https://cajaimebien.com/2018/01/patricia-maincent/" title="Patricia Maincent">Patricia Maincent</a></h2>
+				<p class="postmetadata">
+					8 janvier 2018 - <a href="https://cajaimebien.com/peinture/" rel="category tag">peinture</a> 
+				</p>
+							
+						<a class="halo" href="https://cajaimebien.com/2018/01/patricia-maincent/" title="Patricia Maincent">
+
+						</a>
+	
+						<a href="https://cajaimebien.com/2018/01/patricia-maincent/" title="Patricia Maincent">
+						<img width="700" height="300" src="https://cajaimebien.com/wp-content/uploads/2018/01/20180108_Patricia_Maincent_09-700x300.jpg" class="attachment-homepage-thumb size-homepage-thumb wp-post-image" alt="" />						</a>
+					</div>
+				
+				
+
+
+				
+				<hr class="separation"/>
+				
+			</div>
+					<div class="post" id="post-5698">
+
+
+
+									<div class="thumbnail_vms">		
+							
+											<h2><a href="https://cajaimebien.com/2017/10/marilyn-mugot/" title="Marilyn Mugot">Marilyn Mugot</a></h2>
+				<p class="postmetadata">
+					23 octobre 2017 - <a href="https://cajaimebien.com/photo/" rel="category tag">photo</a> 
+				</p>
+							
+						<a class="halo" href="https://cajaimebien.com/2017/10/marilyn-mugot/" title="Marilyn Mugot">
+
+						</a>
+	
+						<a href="https://cajaimebien.com/2017/10/marilyn-mugot/" title="Marilyn Mugot">
+						<img width="700" height="300" src="https://cajaimebien.com/wp-content/uploads/2017/09/Wavy-Horizon_Chongqing_2016_MarilynMugot-700x300.jpg" class="attachment-homepage-thumb size-homepage-thumb wp-post-image" alt="" />						</a>
+					</div>
+				
+				
+
+
+				
+				<hr class="separation"/>
+				
+			</div>
+					<div class="post" id="post-5670">
+
+
+
+									<div class="thumbnail_vms">		
+							
+											<h2><a href="https://cajaimebien.com/2017/03/vietnam-little-quarter/" title="Vietnam Little Quarter">Vietnam Little Quarter</a></h2>
+				<p class="postmetadata">
+					19 mars 2017 - <a href="https://cajaimebien.com/illustration/" rel="category tag">illustration</a> 
+				</p>
+							
+						<a class="halo" href="https://cajaimebien.com/2017/03/vietnam-little-quarter/" title="Vietnam Little Quarter">
+
+						</a>
+	
+						<a href="https://cajaimebien.com/2017/03/vietnam-little-quarter/" title="Vietnam Little Quarter">
+						<img width="700" height="300" src="https://cajaimebien.com/wp-content/uploads/2017/03/2017_03_19_Vietnam-Little-Quarter_06-700x300.png" class="attachment-homepage-thumb size-homepage-thumb wp-post-image" alt="" />						</a>
+					</div>
+				
+				
+
+
+				
+				<hr class="separation"/>
+				
+			</div>
+					<div class="post" id="post-5658">
+
+
+
+									<div class="thumbnail_vms">		
+							
+											<h2><a href="https://cajaimebien.com/2016/12/elsa-depont/" title="Elsa Depont">Elsa Depont</a></h2>
+				<p class="postmetadata">
+					2 décembre 2016 - <a href="https://cajaimebien.com/illustration/" rel="category tag">illustration</a> 
+				</p>
+							
+						<a class="halo" href="https://cajaimebien.com/2016/12/elsa-depont/" title="Elsa Depont">
+
+						</a>
+	
+						<a href="https://cajaimebien.com/2016/12/elsa-depont/" title="Elsa Depont">
+						<img width="700" height="300" src="https://cajaimebien.com/wp-content/uploads/2016/12/2016_12_02_Elsa_Depont_08-700x300.jpeg" class="attachment-homepage-thumb size-homepage-thumb wp-post-image" alt="" />						</a>
+					</div>
+				
+				
+
+
+				
+				<hr class="separation"/>
+				
+			</div>
+					<div class="post" id="post-5643">
+
+
+
+									<div class="thumbnail_vms">		
+							
+											<h2><a href="https://cajaimebien.com/2016/07/dorris-vooijs/" title="Dorris Vooijs">Dorris Vooijs</a></h2>
+				<p class="postmetadata">
+					4 juillet 2016 - <a href="https://cajaimebien.com/peinture/" rel="category tag">peinture</a> 
+				</p>
+							
+						<a class="halo" href="https://cajaimebien.com/2016/07/dorris-vooijs/" title="Dorris Vooijs">
+
+						</a>
+	
+						<a href="https://cajaimebien.com/2016/07/dorris-vooijs/" title="Dorris Vooijs">
+						<img width="700" height="300" src="https://cajaimebien.com/wp-content/uploads/2016/07/Dorris_Vooijs_02-700x300.jpg" class="attachment-homepage-thumb size-homepage-thumb wp-post-image" alt="" />						</a>
+					</div>
+				
+				
+
+
+				
+				<hr class="separation"/>
+				
+			</div>
+					<div class="post" id="post-5633">
+
+
+
+									<div class="thumbnail_vms">		
+							
+											<h2><a href="https://cajaimebien.com/2016/06/caroline-morin/" title="Caroline Morin">Caroline Morin</a></h2>
+				<p class="postmetadata">
+					7 juin 2016 - <a href="https://cajaimebien.com/illustration/" rel="category tag">illustration</a> 
+				</p>
+							
+						<a class="halo" href="https://cajaimebien.com/2016/06/caroline-morin/" title="Caroline Morin">
+
+						</a>
+	
+						<a href="https://cajaimebien.com/2016/06/caroline-morin/" title="Caroline Morin">
+						<img width="669" height="300" src="https://cajaimebien.com/wp-content/uploads/2016/06/Capture-d’écran-2019-09-10-à-18.10.10-669x300.png" class="attachment-homepage-thumb size-homepage-thumb wp-post-image" alt="" />						</a>
+					</div>
+				
+				
+
+
+				
+				<hr class="separation"/>
+				
+			</div>
+					<div class="post" id="post-5622">
+
+
+
+									<div class="thumbnail_vms">		
+							
+											<h2><a href="https://cajaimebien.com/2016/04/malachi-ward/" title="Malachi Ward">Malachi Ward</a></h2>
+				<p class="postmetadata">
+					5 avril 2016 - <a href="https://cajaimebien.com/graphisme/" rel="category tag">graphisme</a> 
+				</p>
+							
+						<a class="halo" href="https://cajaimebien.com/2016/04/malachi-ward/" title="Malachi Ward">
+
+						</a>
+	
+						<a href="https://cajaimebien.com/2016/04/malachi-ward/" title="Malachi Ward">
+						<img width="700" height="300" src="https://cajaimebien.com/wp-content/uploads/2016/03/2016_03_31_malachi_ward_06-700x300.jpg" class="attachment-homepage-thumb size-homepage-thumb wp-post-image" alt="" />						</a>
+					</div>
+				
+				
+
+
+				
+				<hr class="separation"/>
+				
+			</div>
+					<div class="post" id="post-5609">
+
+
+
+									<div class="thumbnail_vms">		
+							
+											<h2><a href="https://cajaimebien.com/2016/03/wolfgang-hutter/" title="Wolfgang Hutter">Wolfgang Hutter</a></h2>
+				<p class="postmetadata">
+					29 mars 2016 - <a href="https://cajaimebien.com/peinture/" rel="category tag">peinture</a> 
+				</p>
+							
+						<a class="halo" href="https://cajaimebien.com/2016/03/wolfgang-hutter/" title="Wolfgang Hutter">
+
+						</a>
+	
+						<a href="https://cajaimebien.com/2016/03/wolfgang-hutter/" title="Wolfgang Hutter">
+						<img width="700" height="300" src="https://cajaimebien.com/wp-content/uploads/2016/03/2015_03_29_Wolfgang_Hutter_04-700x300.jpg" class="attachment-homepage-thumb size-homepage-thumb wp-post-image" alt="" />						</a>
+					</div>
+				
+				
+
+
+				
+				<hr class="separation"/>
+				
+			</div>
+					<div class="post" id="post-5592">
+
+
+
+									<div class="thumbnail_vms">		
+							
+											<h2><a href="https://cajaimebien.com/2016/02/ouai-jvois-ouai/" title="Ouai, j&rsquo;vois ouai">Ouai, j&rsquo;vois ouai</a></h2>
+				<p class="postmetadata">
+					29 février 2016 - <a href="https://cajaimebien.com/illustration/" rel="category tag">illustration</a> 
+				</p>
+							
+						<a class="halo" href="https://cajaimebien.com/2016/02/ouai-jvois-ouai/" title="Ouai, j&rsquo;vois ouai">
+
+						</a>
+	
+						<a href="https://cajaimebien.com/2016/02/ouai-jvois-ouai/" title="Ouai, j&rsquo;vois ouai">
+						<img width="700" height="300" src="https://cajaimebien.com/wp-content/uploads/2016/02/thumbnail.jpg" class="attachment-homepage-thumb size-homepage-thumb wp-post-image" alt="" srcset="https://cajaimebien.com/wp-content/uploads/2016/02/thumbnail.jpg 700w, https://cajaimebien.com/wp-content/uploads/2016/02/thumbnail-300x128.jpg 300w, https://cajaimebien.com/wp-content/uploads/2016/02/thumbnail-190x81.jpg 190w" sizes="(max-width: 700px) 100vw, 700px" />						</a>
+					</div>
+				
+				
+
+
+				
+				<hr class="separation"/>
+				
+			</div>
+					<div class="post" id="post-5575">
+
+
+
+									<div class="thumbnail_vms">		
+							
+											<h2><a href="https://cajaimebien.com/2016/01/martin-nicolausson/" title="Martin Nicolausson">Martin Nicolausson</a></h2>
+				<p class="postmetadata">
+					22 janvier 2016 - <a href="https://cajaimebien.com/graphisme/" rel="category tag">graphisme</a> 
+				</p>
+							
+						<a class="halo" href="https://cajaimebien.com/2016/01/martin-nicolausson/" title="Martin Nicolausson">
+
+						</a>
+	
+						<a href="https://cajaimebien.com/2016/01/martin-nicolausson/" title="Martin Nicolausson">
+						<img width="670" height="300" src="https://cajaimebien.com/wp-content/uploads/2016/01/2016_01_22_Martin_Nicolausson_07-670x300.jpg" class="attachment-homepage-thumb size-homepage-thumb wp-post-image" alt="" />						</a>
+					</div>
+				
+				
+
+
+				
+				<hr class="separation"/>
+				
+			</div>
+					<div class="post" id="post-5565">
+
+
+
+									<div class="thumbnail_vms">		
+							
+											<h2><a href="https://cajaimebien.com/2016/01/lumo-architects/" title="LUMO Architects">LUMO Architects</a></h2>
+				<p class="postmetadata">
+					11 janvier 2016 - <a href="https://cajaimebien.com/architecture/" rel="category tag">architecture</a> 
+				</p>
+							
+						<a class="halo" href="https://cajaimebien.com/2016/01/lumo-architects/" title="LUMO Architects">
+
+						</a>
+	
+						<a href="https://cajaimebien.com/2016/01/lumo-architects/" title="LUMO Architects">
+						<img width="700" height="300" src="https://cajaimebien.com/wp-content/uploads/2016/01/2016_01_11_LUMO_architects_03-700x300.jpg" class="attachment-homepage-thumb size-homepage-thumb wp-post-image" alt="" />						</a>
+					</div>
+				
+				
+
+
+				
+				<hr class="separation"/>
+				
+			</div>
+				
+        
+	</div>
+
+
+
+
+	<div id="sidebar" >
+
+
+		<ul>
+
+
+			<li id="search"> <form method="get" id="searchform" action="https://cajaimebien.com/">
+    <div>
+      <input type="text" value="" name="s" id="s" />
+      <input id="si" type="image" src="https://www.cajaimebien.com/wp-content/themes/cajaimebien/images/search.gif" alt="recherche">
+    </div>
+</form>
+</li>
+
+			<li id="jolipixel" style="    padding: 20px 0px 20px 20px;
+    border-bottom: 1px dotted #d1d1d1;">
+		<a href="https://www.jolipixel.fr/" target="_blank"><img src="https://www.jolipixel.fr/wp-content/uploads/2019/07/logo.svg"
+			style="width: 140px;
+    		padding-left: 40px;
+    		margin-bottom: 20px;" title="Agence web à Saint-Nazaire" alt="Agence web joliPixel"></a>
+					<p> Vous savez qu'on fabrique aussi des sites web ? Retrouvez nous sur <a href="https://www.jolipixel.fr/" target="_blank" >joliPixel.fr, Agence Web à Saint-Nazaire & Nantes</a> !</p>
+
+			</li>
+
+
+			<li id="sidebar_social">
+			<ul>
+		       <li class="sidebar_facebook" > <a href="http://www.facebook.com/cajaimebien" target="_blank">facebook </a></li>
+		       <li class="sidebar_twitter"> <a href="http://twitter.com/cajaimebien" target="_blank">twitter </a></li>
+		       <li class="sidebar_pinterest"> <a href="http://pinterest.com/cajaimebien" target="_blank">pinterest </a></li>
+		       <li class="sidebar_rss"> <a href="https://cajaimebien.com/feed" target="_blank">rss </a></li>
+			</ul>
+		   </li>
+
+
+		    <li class="categories"><h2>Toutes les catégories</h2><ul>	<li class="cat-item cat-item-14"><a href="https://cajaimebien.com/architecture/">architecture</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="https://cajaimebien.com/design/">design</a>
+</li>
+	<li class="cat-item cat-item-21"><a href="https://cajaimebien.com/gif/">GIF</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="https://cajaimebien.com/graphisme/">graphisme</a>
+</li>
+	<li class="cat-item cat-item-22"><a href="https://cajaimebien.com/illustration/">illustration</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="https://cajaimebien.com/installation/">installation</a>
+</li>
+	<li class="cat-item cat-item-25"><a href="https://cajaimebien.com/livre/">livre</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="https://cajaimebien.com/peinture/">peinture</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="https://cajaimebien.com/photo/">photo</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="https://cajaimebien.com/sculpture/">sculpture</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="https://cajaimebien.com/street/">street</a>
+</li>
+	<li class="cat-item cat-item-20"><a href="https://cajaimebien.com/tatouage/">tatouage</a>
+</li>
+</ul></li>		    <li id="archives"><h2>Archives</h2>
+		       <ul>
+		         	<li><a href='https://cajaimebien.com/2019/12/'>décembre 2019</a></li>
+	<li><a href='https://cajaimebien.com/2019/10/'>octobre 2019</a></li>
+	<li><a href='https://cajaimebien.com/2018/11/'>novembre 2018</a></li>
+	<li><a href='https://cajaimebien.com/2018/01/'>janvier 2018</a></li>
+	<li><a href='https://cajaimebien.com/2017/10/'>octobre 2017</a></li>
+	<li><a href='https://cajaimebien.com/2017/03/'>mars 2017</a></li>
+	<li><a href='https://cajaimebien.com/2016/12/'>décembre 2016</a></li>
+	<li><a href='https://cajaimebien.com/2016/07/'>juillet 2016</a></li>
+	<li><a href='https://cajaimebien.com/2016/06/'>juin 2016</a></li>
+	<li><a href='https://cajaimebien.com/2016/04/'>avril 2016</a></li>
+	<li><a href='https://cajaimebien.com/2016/03/'>mars 2016</a></li>
+	<li><a href='https://cajaimebien.com/2016/02/'>février 2016</a></li>
+	<li><a href='https://cajaimebien.com/2016/01/'>janvier 2016</a></li>
+	<li><a href='https://cajaimebien.com/2015/12/'>décembre 2015</a></li>
+	<li><a href='https://cajaimebien.com/2015/11/'>novembre 2015</a></li>
+	<li><a href='https://cajaimebien.com/2015/10/'>octobre 2015</a></li>
+	<li><a href='https://cajaimebien.com/2015/09/'>septembre 2015</a></li>
+	<li><a href='https://cajaimebien.com/2015/08/'>août 2015</a></li>
+	<li><a href='https://cajaimebien.com/2015/07/'>juillet 2015</a></li>
+	<li><a href='https://cajaimebien.com/2015/06/'>juin 2015</a></li>
+	<li><a href='https://cajaimebien.com/2015/05/'>mai 2015</a></li>
+	<li><a href='https://cajaimebien.com/2015/04/'>avril 2015</a></li>
+	<li><a href='https://cajaimebien.com/2015/03/'>mars 2015</a></li>
+	<li><a href='https://cajaimebien.com/2015/02/'>février 2015</a></li>
+	<li><a href='https://cajaimebien.com/2015/01/'>janvier 2015</a></li>
+	<li><a href='https://cajaimebien.com/2014/12/'>décembre 2014</a></li>
+	<li><a href='https://cajaimebien.com/2014/11/'>novembre 2014</a></li>
+	<li><a href='https://cajaimebien.com/2014/10/'>octobre 2014</a></li>
+	<li><a href='https://cajaimebien.com/2014/09/'>septembre 2014</a></li>
+	<li><a href='https://cajaimebien.com/2014/08/'>août 2014</a></li>
+	<li><a href='https://cajaimebien.com/2014/07/'>juillet 2014</a></li>
+	<li><a href='https://cajaimebien.com/2014/06/'>juin 2014</a></li>
+	<li><a href='https://cajaimebien.com/2014/05/'>mai 2014</a></li>
+	<li><a href='https://cajaimebien.com/2014/04/'>avril 2014</a></li>
+	<li><a href='https://cajaimebien.com/2014/03/'>mars 2014</a></li>
+	<li><a href='https://cajaimebien.com/2014/02/'>février 2014</a></li>
+	<li><a href='https://cajaimebien.com/2014/01/'>janvier 2014</a></li>
+	<li><a href='https://cajaimebien.com/2013/12/'>décembre 2013</a></li>
+	<li><a href='https://cajaimebien.com/2013/11/'>novembre 2013</a></li>
+	<li><a href='https://cajaimebien.com/2013/10/'>octobre 2013</a></li>
+	<li><a href='https://cajaimebien.com/2013/09/'>septembre 2013</a></li>
+	<li><a href='https://cajaimebien.com/2013/08/'>août 2013</a></li>
+	<li><a href='https://cajaimebien.com/2013/07/'>juillet 2013</a></li>
+	<li><a href='https://cajaimebien.com/2013/06/'>juin 2013</a></li>
+	<li><a href='https://cajaimebien.com/2013/05/'>mai 2013</a></li>
+	<li><a href='https://cajaimebien.com/2013/04/'>avril 2013</a></li>
+	<li><a href='https://cajaimebien.com/2013/03/'>mars 2013</a></li>
+	<li><a href='https://cajaimebien.com/2013/02/'>février 2013</a></li>
+	<li><a href='https://cajaimebien.com/2013/01/'>janvier 2013</a></li>
+	<li><a href='https://cajaimebien.com/2012/12/'>décembre 2012</a></li>
+	<li><a href='https://cajaimebien.com/2012/06/'>juin 2012</a></li>
+	<li><a href='https://cajaimebien.com/2012/05/'>mai 2012</a></li>
+	<li><a href='https://cajaimebien.com/2012/04/'>avril 2012</a></li>
+	<li><a href='https://cajaimebien.com/2012/03/'>mars 2012</a></li>
+	<li><a href='https://cajaimebien.com/2012/02/'>février 2012</a></li>
+		       </ul>
+
+		   </li>
+
+		   <li>  <!-- fonction pour afficher des thumbnails aleatoirement -->
+		      	 <div id="random_thumbnails_sidebar">
+
+						<ul class="post" id="post-292">
+					
+					<a href="https://cajaimebien.com/2012/03/lmdldzr/" title="LMDLDZR">
+					<img width="190" height="253" src="https://cajaimebien.com/wp-content/uploads/2012/11/2012_03_05_lmdldzr_04-190x253.jpeg" class="attachment-sidebar-thumb size-sidebar-thumb wp-post-image" alt="" srcset="https://cajaimebien.com/wp-content/uploads/2012/11/2012_03_05_lmdldzr_04-190x253.jpeg 190w, https://cajaimebien.com/wp-content/uploads/2012/11/2012_03_05_lmdldzr_04-225x300.jpeg 225w, https://cajaimebien.com/wp-content/uploads/2012/11/2012_03_05_lmdldzr_04.jpeg 720w" sizes="(max-width: 190px) 100vw, 190px" />					</a>
+				
+			</ul>	
+			
+						<ul class="post" id="post-2965">
+					
+					<a href="https://cajaimebien.com/2013/07/roberts-ward/" title="Roberts Ward">
+					<img width="190" height="190" src="https://cajaimebien.com/wp-content/uploads/2013/07/2013_07_08_ward_roberts_12-190x190.jpg" class="attachment-sidebar-thumb size-sidebar-thumb wp-post-image" alt="" srcset="https://cajaimebien.com/wp-content/uploads/2013/07/2013_07_08_ward_roberts_12-190x190.jpg 190w, https://cajaimebien.com/wp-content/uploads/2013/07/2013_07_08_ward_roberts_12-300x300.jpg 300w, https://cajaimebien.com/wp-content/uploads/2013/07/2013_07_08_ward_roberts_12.jpg 640w" sizes="(max-width: 190px) 100vw, 190px" />					</a>
+				
+			</ul>	
+			
+						<ul class="post" id="post-5419">
+					
+					<a href="https://cajaimebien.com/2015/06/buff-diss/" title="Buff Diss">
+					<img width="190" height="142" src="https://cajaimebien.com/wp-content/uploads/2015/06/buff-dis-190x142.jpg" class="attachment-sidebar-thumb size-sidebar-thumb wp-post-image" alt="" srcset="https://cajaimebien.com/wp-content/uploads/2015/06/buff-dis-190x142.jpg 190w, https://cajaimebien.com/wp-content/uploads/2015/06/buff-dis-839x630.jpg 839w, https://cajaimebien.com/wp-content/uploads/2015/06/buff-dis-300x225.jpg 300w, https://cajaimebien.com/wp-content/uploads/2015/06/buff-dis-210x158.jpg 210w, https://cajaimebien.com/wp-content/uploads/2015/06/buff-dis-400x300.jpg 400w, https://cajaimebien.com/wp-content/uploads/2015/06/buff-dis.jpg 934w" sizes="(max-width: 190px) 100vw, 190px" />					</a>
+				
+			</ul>	
+			
+						<ul class="post" id="post-1638">
+					
+					<a href="https://cajaimebien.com/2013/06/vladimir-stankovic/" title="Vladimir Stankovic">
+					<img width="190" height="190" src="https://cajaimebien.com/wp-content/uploads/2013/02/2013_02_26_Vladimir_Stankovic_05-190x190.jpg" class="attachment-sidebar-thumb size-sidebar-thumb wp-post-image" alt="" srcset="https://cajaimebien.com/wp-content/uploads/2013/02/2013_02_26_Vladimir_Stankovic_05-190x190.jpg 190w, https://cajaimebien.com/wp-content/uploads/2013/02/2013_02_26_Vladimir_Stankovic_05-300x300.jpg 300w, https://cajaimebien.com/wp-content/uploads/2013/02/2013_02_26_Vladimir_Stankovic_05.jpg 640w" sizes="(max-width: 190px) 100vw, 190px" />					</a>
+				
+			</ul>	
+			
+						<ul class="post" id="post-5344">
+					
+					<a href="https://cajaimebien.com/2015/05/glenn-brown/" title="Glenn Brown">
+					<img width="190" height="237" src="https://cajaimebien.com/wp-content/uploads/2015/05/2015_05_11_Glenn_Brown_01-190x237.jpeg" class="attachment-sidebar-thumb size-sidebar-thumb wp-post-image" alt="" srcset="https://cajaimebien.com/wp-content/uploads/2015/05/2015_05_11_Glenn_Brown_01-190x237.jpeg 190w, https://cajaimebien.com/wp-content/uploads/2015/05/2015_05_11_Glenn_Brown_01-503x630.jpeg 503w, https://cajaimebien.com/wp-content/uploads/2015/05/2015_05_11_Glenn_Brown_01-239x300.jpeg 239w, https://cajaimebien.com/wp-content/uploads/2015/05/2015_05_11_Glenn_Brown_01-818x1024.jpeg 818w, https://cajaimebien.com/wp-content/uploads/2015/05/2015_05_11_Glenn_Brown_01.jpeg 1199w" sizes="(max-width: 190px) 100vw, 190px" />					</a>
+				
+			</ul>	
+			
+						<ul class="post" id="post-4468">
+					
+					<a href="https://cajaimebien.com/2014/05/kumi-yamashita/" title="Kumi Yamashita">
+					<img width="190" height="81" src="https://cajaimebien.com/wp-content/uploads/2014/05/thumb-190x81.png" class="attachment-sidebar-thumb size-sidebar-thumb wp-post-image" alt="" srcset="https://cajaimebien.com/wp-content/uploads/2014/05/thumb-190x81.png 190w, https://cajaimebien.com/wp-content/uploads/2014/05/thumb-300x128.png 300w, https://cajaimebien.com/wp-content/uploads/2014/05/thumb.png 700w" sizes="(max-width: 190px) 100vw, 190px" />					</a>
+				
+			</ul>	
+			
+						<ul class="post" id="post-5517">
+					
+					<a href="https://cajaimebien.com/2015/11/quentin-deronzier/" title="Quentin Deronzier">
+					<img width="190" height="285" src="https://cajaimebien.com/wp-content/uploads/2015/11/2015_11_03_quentin_deronzier_04-190x285.jpg" class="attachment-sidebar-thumb size-sidebar-thumb wp-post-image" alt="" srcset="https://cajaimebien.com/wp-content/uploads/2015/11/2015_11_03_quentin_deronzier_04-190x285.jpg 190w, https://cajaimebien.com/wp-content/uploads/2015/11/2015_11_03_quentin_deronzier_04-419x630.jpg 419w, https://cajaimebien.com/wp-content/uploads/2015/11/2015_11_03_quentin_deronzier_04-199x300.jpg 199w, https://cajaimebien.com/wp-content/uploads/2015/11/2015_11_03_quentin_deronzier_04-682x1024.jpg 682w, https://cajaimebien.com/wp-content/uploads/2015/11/2015_11_03_quentin_deronzier_04.jpg 1600w" sizes="(max-width: 190px) 100vw, 190px" />					</a>
+				
+			</ul>	
+			
+						<ul class="post" id="post-931">
+					
+					<a href="https://cajaimebien.com/2012/12/haas-hahn-favela-painting/" title="Haas &amp; Hahn &#8211; Favela Painting">
+					<img width="190" height="79" src="https://cajaimebien.com/wp-content/uploads/2012/12/2012_12_25_Haas_Hahn_favela_painting_05-190x79.jpg" class="attachment-sidebar-thumb size-sidebar-thumb wp-post-image" alt="" srcset="https://cajaimebien.com/wp-content/uploads/2012/12/2012_12_25_Haas_Hahn_favela_painting_05-190x79.jpg 190w, https://cajaimebien.com/wp-content/uploads/2012/12/2012_12_25_Haas_Hahn_favela_painting_05-400x166.jpg 400w, https://cajaimebien.com/wp-content/uploads/2012/12/2012_12_25_Haas_Hahn_favela_painting_05-300x124.jpg 300w, https://cajaimebien.com/wp-content/uploads/2012/12/2012_12_25_Haas_Hahn_favela_painting_05-1024x425.jpg 1024w, https://cajaimebien.com/wp-content/uploads/2012/12/2012_12_25_Haas_Hahn_favela_painting_05.jpg 2000w" sizes="(max-width: 190px) 100vw, 190px" />					</a>
+				
+			</ul>	
+			
+						<ul class="post" id="post-3806">
+					
+					<a href="https://cajaimebien.com/2014/01/myong-ho-lee/" title="Myong Ho Lee">
+					<img width="190" height="237" src="https://cajaimebien.com/wp-content/uploads/2013/12/Myoung-Ho-Lee-tree-trees-2-190x237.jpg" class="attachment-sidebar-thumb size-sidebar-thumb wp-post-image" alt="" srcset="https://cajaimebien.com/wp-content/uploads/2013/12/Myoung-Ho-Lee-tree-trees-2-190x237.jpg 190w, https://cajaimebien.com/wp-content/uploads/2013/12/Myoung-Ho-Lee-tree-trees-2-240x300.jpg 240w, https://cajaimebien.com/wp-content/uploads/2013/12/Myoung-Ho-Lee-tree-trees-2.jpg 560w" sizes="(max-width: 190px) 100vw, 190px" />					</a>
+				
+			</ul>	
+			
+						<ul class="post" id="post-3447">
+					
+					<a href="https://cajaimebien.com/2013/10/evgenia-arbugaeva/" title="Evgenia Arbugaeva">
+					<img width="190" height="126" src="https://cajaimebien.com/wp-content/uploads/2013/10/evgenia-arbugaeva-8-190x126.png" class="attachment-sidebar-thumb size-sidebar-thumb wp-post-image" alt="" srcset="https://cajaimebien.com/wp-content/uploads/2013/10/evgenia-arbugaeva-8-190x126.png 190w, https://cajaimebien.com/wp-content/uploads/2013/10/evgenia-arbugaeva-8-400x265.png 400w, https://cajaimebien.com/wp-content/uploads/2013/10/evgenia-arbugaeva-8-300x199.png 300w, https://cajaimebien.com/wp-content/uploads/2013/10/evgenia-arbugaeva-8.png 940w" sizes="(max-width: 190px) 100vw, 190px" />					</a>
+				
+			</ul>	
+			
+						<ul class="post" id="post-652">
+					
+					<a href="https://cajaimebien.com/2012/05/murmure/" title="Agence Murmure">
+					<img width="190" height="117" src="https://cajaimebien.com/wp-content/uploads/2012/11/2012_05_30_murmure_05-190x117.jpeg" class="attachment-sidebar-thumb size-sidebar-thumb wp-post-image" alt="" srcset="https://cajaimebien.com/wp-content/uploads/2012/11/2012_05_30_murmure_05-190x117.jpeg 190w, https://cajaimebien.com/wp-content/uploads/2012/11/2012_05_30_murmure_05-400x246.jpeg 400w, https://cajaimebien.com/wp-content/uploads/2012/11/2012_05_30_murmure_05-300x185.jpeg 300w, https://cajaimebien.com/wp-content/uploads/2012/11/2012_05_30_murmure_05.jpeg 600w" sizes="(max-width: 190px) 100vw, 190px" />					</a>
+				
+			</ul>	
+			
+						<ul class="post" id="post-3727">
+					
+					<a href="https://cajaimebien.com/2013/12/cody-william-smith/" title="Cody William Smith">
+					<img width="190" height="126" src="https://cajaimebien.com/wp-content/uploads/2013/12/Cody-William-Smith-7-190x126.jpg" class="attachment-sidebar-thumb size-sidebar-thumb wp-post-image" alt="" srcset="https://cajaimebien.com/wp-content/uploads/2013/12/Cody-William-Smith-7-190x126.jpg 190w, https://cajaimebien.com/wp-content/uploads/2013/12/Cody-William-Smith-7-400x266.jpg 400w, https://cajaimebien.com/wp-content/uploads/2013/12/Cody-William-Smith-7-300x200.jpg 300w, https://cajaimebien.com/wp-content/uploads/2013/12/Cody-William-Smith-7.jpg 1000w" sizes="(max-width: 190px) 100vw, 190px" />					</a>
+				
+			</ul>	
+			
+						<ul class="post" id="post-4946">
+					
+					<a href="https://cajaimebien.com/2014/07/oleg-oprisco/" title="Oleg Oprisco">
+					<img width="190" height="190" src="https://cajaimebien.com/wp-content/uploads/2014/07/Oleg-Oprisco-11-190x190.jpg" class="attachment-sidebar-thumb size-sidebar-thumb wp-post-image" alt="" srcset="https://cajaimebien.com/wp-content/uploads/2014/07/Oleg-Oprisco-11-190x190.jpg 190w, https://cajaimebien.com/wp-content/uploads/2014/07/Oleg-Oprisco-11-630x630.jpg 630w, https://cajaimebien.com/wp-content/uploads/2014/07/Oleg-Oprisco-11-300x300.jpg 300w, https://cajaimebien.com/wp-content/uploads/2014/07/Oleg-Oprisco-11.jpg 720w" sizes="(max-width: 190px) 100vw, 190px" />					</a>
+				
+			</ul>	
+			
+						<ul class="post" id="post-3919">
+					
+					<a href="https://cajaimebien.com/2014/01/agnes-cappadoro/" title="Agnès Cappadoro">
+					<img width="190" height="253" src="https://cajaimebien.com/wp-content/uploads/2014/01/agnes-cappadoro-1-190x253.jpg" class="attachment-sidebar-thumb size-sidebar-thumb wp-post-image" alt="" srcset="https://cajaimebien.com/wp-content/uploads/2014/01/agnes-cappadoro-1-190x253.jpg 190w, https://cajaimebien.com/wp-content/uploads/2014/01/agnes-cappadoro-1-225x300.jpg 225w, https://cajaimebien.com/wp-content/uploads/2014/01/agnes-cappadoro-1.jpg 768w" sizes="(max-width: 190px) 100vw, 190px" />					</a>
+				
+			</ul>	
+			
+						<ul class="post" id="post-396">
+					
+					<a href="https://cajaimebien.com/2012/03/brock-lefferts/" title="Brock Lefferts">
+					<img width="190" height="190" src="https://cajaimebien.com/wp-content/uploads/2012/11/2012_03_02_brock_lefferts_04-190x190.jpeg" class="attachment-sidebar-thumb size-sidebar-thumb wp-post-image" alt="" srcset="https://cajaimebien.com/wp-content/uploads/2012/11/2012_03_02_brock_lefferts_04-190x190.jpeg 190w, https://cajaimebien.com/wp-content/uploads/2012/11/2012_03_02_brock_lefferts_04-300x300.jpeg 300w, https://cajaimebien.com/wp-content/uploads/2012/11/2012_03_02_brock_lefferts_04.jpeg 800w" sizes="(max-width: 190px) 100vw, 190px" />					</a>
+				
+			</ul>	
+			
+						<ul class="post" id="post-1337">
+					
+					<a href="https://cajaimebien.com/2013/01/claes-kallarsson/" title="Claes Källarsson">
+					<img width="190" height="190" src="https://cajaimebien.com/wp-content/uploads/2013/01/2013_01_22_Claes_Källarsson_ckck_02-190x190.jpg" class="attachment-sidebar-thumb size-sidebar-thumb wp-post-image" alt="" srcset="https://cajaimebien.com/wp-content/uploads/2013/01/2013_01_22_Claes_Källarsson_ckck_02-190x190.jpg 190w, https://cajaimebien.com/wp-content/uploads/2013/01/2013_01_22_Claes_Källarsson_ckck_02-300x300.jpg 300w, https://cajaimebien.com/wp-content/uploads/2013/01/2013_01_22_Claes_Källarsson_ckck_02.jpg 640w" sizes="(max-width: 190px) 100vw, 190px" />					</a>
+				
+			</ul>	
+			
+						<ul class="post" id="post-5468">
+					
+					<a href="https://cajaimebien.com/2015/08/steven-spazuk/" title="Steven Spazuk">
+					<img width="190" height="237" src="https://cajaimebien.com/wp-content/uploads/2015/08/Steven-Spazuk-5-190x237.jpg" class="attachment-sidebar-thumb size-sidebar-thumb wp-post-image" alt="" srcset="https://cajaimebien.com/wp-content/uploads/2015/08/Steven-Spazuk-5-190x237.jpg 190w, https://cajaimebien.com/wp-content/uploads/2015/08/Steven-Spazuk-5-504x630.jpg 504w, https://cajaimebien.com/wp-content/uploads/2015/08/Steven-Spazuk-5-240x300.jpg 240w, https://cajaimebien.com/wp-content/uploads/2015/08/Steven-Spazuk-5-819x1024.jpg 819w, https://cajaimebien.com/wp-content/uploads/2015/08/Steven-Spazuk-5.jpg 1152w" sizes="(max-width: 190px) 100vw, 190px" />					</a>
+				
+			</ul>	
+			
+						<ul class="post" id="post-1275">
+					
+					<a href="https://cajaimebien.com/2013/01/amelia-fais-harnas/" title="Amelia Fais Harnas">
+					<img width="190" height="207" src="https://cajaimebien.com/wp-content/uploads/2013/01/2013_01_17_Amelia_Fais_Harnas_01-190x207.jpg" class="attachment-sidebar-thumb size-sidebar-thumb wp-post-image" alt="" srcset="https://cajaimebien.com/wp-content/uploads/2013/01/2013_01_17_Amelia_Fais_Harnas_01-190x207.jpg 190w, https://cajaimebien.com/wp-content/uploads/2013/01/2013_01_17_Amelia_Fais_Harnas_01-275x300.jpg 275w, https://cajaimebien.com/wp-content/uploads/2013/01/2013_01_17_Amelia_Fais_Harnas_01.jpg 640w" sizes="(max-width: 190px) 100vw, 190px" />					</a>
+				
+			</ul>	
+			
+						<ul class="post" id="post-4979">
+					
+					<a href="https://cajaimebien.com/2014/07/lou-ros/" title="Lou Ros">
+					<img width="190" height="143" src="https://cajaimebien.com/wp-content/uploads/2014/07/lou-ros-8-190x143.jpg" class="attachment-sidebar-thumb size-sidebar-thumb wp-post-image" alt="" srcset="https://cajaimebien.com/wp-content/uploads/2014/07/lou-ros-8-190x143.jpg 190w, https://cajaimebien.com/wp-content/uploads/2014/07/lou-ros-8-836x630.jpg 836w, https://cajaimebien.com/wp-content/uploads/2014/07/lou-ros-8-300x225.jpg 300w, https://cajaimebien.com/wp-content/uploads/2014/07/lou-ros-8-1024x771.jpg 1024w, https://cajaimebien.com/wp-content/uploads/2014/07/lou-ros-8-210x158.jpg 210w, https://cajaimebien.com/wp-content/uploads/2014/07/lou-ros-8-400x300.jpg 400w" sizes="(max-width: 190px) 100vw, 190px" />					</a>
+				
+			</ul>	
+			
+						<ul class="post" id="post-638">
+					
+					<a href="https://cajaimebien.com/2012/05/crosson-clarke-carnachan-whangapoua-house/" title="Crosson Clarke Carnachan &#8211; whangapoua house">
+					<img width="190" height="126" src="https://cajaimebien.com/wp-content/uploads/2012/11/2012_05_25_Crosson_Clarke_Carnachan_02-190x126.jpeg" class="attachment-sidebar-thumb size-sidebar-thumb wp-post-image" alt="" srcset="https://cajaimebien.com/wp-content/uploads/2012/11/2012_05_25_Crosson_Clarke_Carnachan_02-190x126.jpeg 190w, https://cajaimebien.com/wp-content/uploads/2012/11/2012_05_25_Crosson_Clarke_Carnachan_02-400x266.jpeg 400w, https://cajaimebien.com/wp-content/uploads/2012/11/2012_05_25_Crosson_Clarke_Carnachan_02-300x200.jpeg 300w, https://cajaimebien.com/wp-content/uploads/2012/11/2012_05_25_Crosson_Clarke_Carnachan_02.jpeg 600w" sizes="(max-width: 190px) 100vw, 190px" />					</a>
+				
+			</ul>	
+			
+						<ul class="post" id="post-2346">
+					
+					<a href="https://cajaimebien.com/2013/06/shan-jiang/" title="Shan Jiang">
+					<img width="190" height="237" src="https://cajaimebien.com/wp-content/uploads/2013/03/2013_03_29_Shan_Jiang_15-190x237.jpg" class="attachment-sidebar-thumb size-sidebar-thumb wp-post-image" alt="" srcset="https://cajaimebien.com/wp-content/uploads/2013/03/2013_03_29_Shan_Jiang_15-190x237.jpg 190w, https://cajaimebien.com/wp-content/uploads/2013/03/2013_03_29_Shan_Jiang_15-239x300.jpg 239w, https://cajaimebien.com/wp-content/uploads/2013/03/2013_03_29_Shan_Jiang_15.jpg 640w" sizes="(max-width: 190px) 100vw, 190px" />					</a>
+				
+			</ul>	
+			
+						<ul class="post" id="post-5311">
+					
+					<a href="https://cajaimebien.com/2015/04/john-hersey/" title="John Hersey">
+					<img width="190" height="129" src="https://cajaimebien.com/wp-content/uploads/2015/04/2015_04_06_john_hersey_01-190x129.jpg" class="attachment-sidebar-thumb size-sidebar-thumb wp-post-image" alt="" srcset="https://cajaimebien.com/wp-content/uploads/2015/04/2015_04_06_john_hersey_01-190x129.jpg 190w, https://cajaimebien.com/wp-content/uploads/2015/04/2015_04_06_john_hersey_01-300x203.jpg 300w, https://cajaimebien.com/wp-content/uploads/2015/04/2015_04_06_john_hersey_01.jpg 728w" sizes="(max-width: 190px) 100vw, 190px" />					</a>
+				
+			</ul>	
+			
+						<ul class="post" id="post-3202">
+					
+					<a href="https://cajaimebien.com/2013/09/cody-cobb/" title="Cody Cobb">
+					<img width="190" height="125" src="https://cajaimebien.com/wp-content/uploads/2013/09/splash_005-190x125.jpg" class="attachment-sidebar-thumb size-sidebar-thumb wp-post-image" alt="" srcset="https://cajaimebien.com/wp-content/uploads/2013/09/splash_005-190x125.jpg 190w, https://cajaimebien.com/wp-content/uploads/2013/09/splash_005-400x265.jpg 400w, https://cajaimebien.com/wp-content/uploads/2013/09/splash_005-300x198.jpg 300w, https://cajaimebien.com/wp-content/uploads/2013/09/splash_005.jpg 670w" sizes="(max-width: 190px) 100vw, 190px" />					</a>
+				
+			</ul>	
+			
+						<ul class="post" id="post-1747">
+					
+					<a href="https://cajaimebien.com/2013/03/gaelle-villedary-tapis-rouge/" title="Gaelle Villedary &#8211; tapis rouge">
+					<img width="190" height="126" src="https://cajaimebien.com/wp-content/uploads/2013/02/2013_02_28_gaelle_villedary_06-190x126.jpg" class="attachment-sidebar-thumb size-sidebar-thumb wp-post-image" alt="" srcset="https://cajaimebien.com/wp-content/uploads/2013/02/2013_02_28_gaelle_villedary_06-190x126.jpg 190w, https://cajaimebien.com/wp-content/uploads/2013/02/2013_02_28_gaelle_villedary_06-400x266.jpg 400w, https://cajaimebien.com/wp-content/uploads/2013/02/2013_02_28_gaelle_villedary_06-300x199.jpg 300w, https://cajaimebien.com/wp-content/uploads/2013/02/2013_02_28_gaelle_villedary_06.jpg 640w" sizes="(max-width: 190px) 100vw, 190px" />					</a>
+				
+			</ul>	
+			
+						<ul class="post" id="post-3079">
+					
+					<a href="https://cajaimebien.com/2013/08/ari-weinkle/" title="Ari Weinkle">
+					<img width="190" height="190" src="https://cajaimebien.com/wp-content/uploads/2013/07/2013_07_11_ari_weinkle_09-190x190.jpg" class="attachment-sidebar-thumb size-sidebar-thumb wp-post-image" alt="" srcset="https://cajaimebien.com/wp-content/uploads/2013/07/2013_07_11_ari_weinkle_09-190x190.jpg 190w, https://cajaimebien.com/wp-content/uploads/2013/07/2013_07_11_ari_weinkle_09-300x300.jpg 300w, https://cajaimebien.com/wp-content/uploads/2013/07/2013_07_11_ari_weinkle_09.jpg 640w" sizes="(max-width: 190px) 100vw, 190px" />					</a>
+				
+			</ul>	
+			
+			
+	</div>		   </li>
+
+		   <li id="bas_sidebar">
+		   </li>
+
+
+			 			 
+		   </ul>
+
+
+	</div>
+  		   
+
+        <nav id="bas_page" class="pagination" role="navigation">
+            <span aria-current="page" class="page-numbers current">1</span>
+<a class="page-numbers" href="https://cajaimebien.com/page/2/">2</a>
+<a class="page-numbers" href="https://cajaimebien.com/page/3/">3</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class="page-numbers" href="https://cajaimebien.com/page/25/">25</a>
+<a class="next page-numbers" href="https://cajaimebien.com/page/2/">></a>        </nav><!-- #bas_page .navigation -->
+    
+
+
+</div><!-- fermeture class container -->
+	</div> <!-- fermeture ID content -->
+
+<div id="footer">
+	<div class="container">
+
+		<div class="footer_gauche">
+			<a class="footer_large" href="https://cajaimebien.com/about/">à propos</a>
+			<p>	©2019 - Ça j'aime bien			</p>
+
+		</div>
+
+		<div class="footer_milieu">
+			<a href="https://cajaimebien.com">Ça j'aime bien</a>
+		</div>
+
+		<div class="footer_droite">
+			<a  class="footer_large" href="mailto:morgan@cajaimebien.com" target="_blank">contact</a>
+			<br>
+			<span> réalisé par	</span>		<a href="https://www.jolipixel.fr" target="_blank">joliPixel, Agence Web à Nantes & St-Nazaire</a>
+		</div>
+
+
+	
+<!--Plugin WP Missed Schedule 2013.1231.2013 Active - Tag 6707293c0218e2d8b7aa38d418ffa608-->
+
+<!-- This website is patched against a big problem not solved from WordPress 2.5+ to date -->
+
+<link href="https://fonts.googleapis.com/css?family=Roboto:400" rel="stylesheet" property="stylesheet" media="all" type="text/css" >
+
+		<script type="text/javascript">
+		if(typeof revslider_showDoubleJqueryError === "undefined") {
+			function revslider_showDoubleJqueryError(sliderID) {
+				var err = "<div class='rs_error_message_box'>";
+				err += "<div class='rs_error_message_oops'>Oops...</div>";
+				err += "<div class='rs_error_message_content'>";
+				err += "You have some jquery.js library include that comes after the Slider Revolution files js inclusion.<br>";
+				err += "To fix this, you can:<br>&nbsp;&nbsp;&nbsp; 1. Set 'Module General Options' ->  'jQuery & OutPut Filters' -> 'Put JS to Body' to on";
+				err += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jQuery.js inclusion and remove it";
+				err += "</div>";
+			err += "</div>";
+				jQuery(sliderID).show().html(err);
+			}
+		}
+		</script>
+<script type='text/javascript' src='https://cajaimebien.com/wp-includes/js/wp-embed.min.js?ver=5.3.4'></script>
+	</div>
+</div>
+
+<script src="//assets.pinterest.com/js/pinit.js"></script>
+
+</body>
+</html>
